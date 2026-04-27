@@ -1,4 +1,4 @@
-package com.springboot.smartcampus.security;
+package com.springboot.smartcampus.config;
 
 import com.springboot.smartcampus.enums.ResourceStatus;
 import com.springboot.smartcampus.enums.TicketCategory;
